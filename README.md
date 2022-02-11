@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xiv1h0ckii9yotam?svg=true)](https://ci.appveyor.com/project/Sergl82/ajs-generator)
